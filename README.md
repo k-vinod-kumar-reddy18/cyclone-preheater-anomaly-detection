@@ -36,5 +36,3 @@ The analysis identifies anomalous observations and groups consecutive anomalies 
 - Scikit-learn
 - Matplotlib
 - Jupyter Notebook
-
-es
